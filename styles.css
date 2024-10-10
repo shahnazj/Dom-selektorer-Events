@@ -4,4 +4,19 @@
     height: 300px;
 
     background-color: blueviolet;
+
+    .bg-red {
+        background-color: red;
+    }
+}
+
+.ball {
+    width: 100px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+    background-color: aqua;
+
+}
+.bg.red {
+    background-color: red;
 }
